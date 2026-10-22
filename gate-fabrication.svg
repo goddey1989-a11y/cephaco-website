@@ -1,0 +1,26 @@
+<svg width="1000" height="760" viewBox="0 0 1000 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="760" fill="#D8E2EB"/>
+  <rect x="40" y="80" width="920" height="620" rx="18" fill="#9FAAB3"/>
+  <path d="M100 438H900V554H100V438Z" fill="#4B5867"/>
+  <path d="M166 140H834V438H166V140Z" fill="#5D6978"/>
+  <g opacity="0.9">
+    <path d="M180 154H820V428H180V154Z" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M260 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M340 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M420 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M500 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M580 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M660 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M740 154V428" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M180 206H820" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M180 258H820" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M180 310H820" stroke="#B8C4CE" stroke-width="8"/>
+    <path d="M180 362H820" stroke="#B8C4CE" stroke-width="8"/>
+  </g>
+  <path d="M180 564H820V624H180V564Z" fill="#3E4A56"/>
+  <path d="M100 440H900V472H100V440Z" fill="#36414B"/>
+  <path d="M112 610L200 510" stroke="#D8E0E5" stroke-width="12" stroke-linecap="round"/>
+  <path d="M888 610L800 510" stroke="#D8E0E5" stroke-width="12" stroke-linecap="round"/>
+  <path d="M160 520H840" stroke="#D8E0E5" stroke-width="8" stroke-linecap="round"/>
+  <text x="500" y="700" text-anchor="middle" fill="#1A252D" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Iron Gate Works</text>
+</svg>

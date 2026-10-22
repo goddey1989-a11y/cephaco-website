@@ -1,0 +1,21 @@
+<svg width="800" height="980" viewBox="0 0 800 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="980" fill="#F0F2F5"/>
+  <rect x="80" y="120" width="640" height="760" rx="36" fill="#D9E3ED"/>
+  <circle cx="400" cy="298" r="132" fill="#2E4B5F"/>
+  <path d="M292 259C292 214.817 327.817 179 372 179H428C472.183 179 508 214.817 508 259V310H292V259Z" fill="#1A2D3C"/>
+  <path d="M235 732C235 641.657 306.657 570 397 570H403C493.343 570 565 641.657 565 732V776H235V732Z" fill="#1F3A52"/>
+  <path d="M324 351H476C541.757 351 594 403.243 594 469V522H206V469C206 403.243 258.243 351 324 351Z" fill="#D9E3ED"/>
+  <path d="M286 426H514V491C514 537.039 475.039 576 429 576H371C324.961 576 286 537.039 286 491V426Z" fill="#0D1320"/>
+  <path d="M292 433H508L548 760H252L292 433Z" fill="#0C1830"/>
+  <path d="M350 335L400 279L450 335H350Z" fill="#D0D8E0"/>
+  <circle cx="400" cy="290" r="82" fill="#2C3E47"/>
+  <path d="M333 273C333 236.549 363.549 206 400 206C436.451 206 467 236.549 467 273V303H333V273Z" fill="#1A2530"/>
+  <path d="M324 555H476V760H324V555Z" fill="#E5ECF2"/>
+  <circle cx="400" cy="290" r="62" fill="#E5C5A1"/>
+  <path d="M350 317C365 295 387 284 400 284C413 284 435 295 450 317C442 349 423 371 400 371C377 371 358 349 350 317Z" fill="#1E2A38"/>
+  <path d="M332 288C343 259 368 241 400 241C432 241 457 259 468 288C461 291 450 295 440 298C425 275 411 266 400 266C389 266 375 275 360 298C350 295 339 291 332 288Z" fill="#0C1016"/>
+  <rect x="312" y="360" width="176" height="26" rx="13" fill="#E7EEF6"/>
+  <path d="M346 494H454L474 760H326L346 494Z" fill="#B7C9DD"/>
+  <path d="M285 689H515V760H285V689Z" fill="#0D1320"/>
+  <text x="400" y="900" text-anchor="middle" fill="#0D1320" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Cephas Tetteh</text>
+</svg>
