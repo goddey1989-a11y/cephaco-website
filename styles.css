@@ -324,35 +324,62 @@ textarea {
   padding-bottom: 1rem;
 }
 
-.mini-gallery {
+.project-showcase {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: 1.4fr 1fr 1fr 1.1fr;
   gap: 1rem;
+  align-items: stretch;
 }
 
-.before-after {
-  background: var(--white);
-  border: 1px solid rgba(0, 0, 0, 0.06);
-  border-radius: 20px;
+.showcase-card {
+  position: relative;
   overflow: hidden;
+  border-radius: 24px;
+  min-height: 260px;
   box-shadow: var(--shadow);
+  border: 1px solid rgba(17, 17, 17, 0.06);
+  background: var(--white);
 }
 
-.before-after img {
+.showcase-card--wide {
+  min-height: 300px;
+}
+
+.showcase-card--tall {
+  min-height: 320px;
+}
+
+.showcase-card img {
   width: 100%;
-  height: 180px;
+  height: 100%;
   object-fit: cover;
+  display: block;
+  transition: transform 0.35s ease;
 }
 
-.before-after span {
-  display: block;
-  text-align: center;
-  padding: 0.7rem 0;
-  font-weight: 800;
+.showcase-card:hover img {
+  transform: scale(1.04);
+}
+
+.showcase-overlay {
+  position: absolute;
+  inset: auto 0 0 0;
+  padding: 1rem 1rem 0.9rem;
+  background: linear-gradient(180deg, transparent 0%, rgba(13, 19, 32, 0.9) 100%);
+  color: var(--white);
+  display: grid;
+  gap: 0.15rem;
+}
+
+.showcase-overlay span {
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--dark);
-  background: #f0f2f4;
+  color: rgba(255, 255, 255, 0.76);
+}
+
+.showcase-overlay strong {
+  font-size: 1.05rem;
 }
 
 .features {
@@ -696,7 +723,7 @@ textarea {
     display: none;
   }
 
-  .mini-gallery {
+  .project-showcase {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
